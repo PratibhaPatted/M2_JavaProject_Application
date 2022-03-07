@@ -1,7 +1,8 @@
 
 # Architecture design
 
-![model diagram drawio](https://user-images.githubusercontent.com/98818228/156749504-e387c940-1047-434d-bbc3-f6f16bc36273.png)
+![model diagram drawio (1)](https://user-images.githubusercontent.com/98818228/157050080-0a5bca10-2602-4209-8f63-9157d62722f9.png)
+
 
 ## Usecase Diagram
 
