@@ -15,4 +15,4 @@
 2. To create and store customer using Name and phoneno.
 3. To create and manage supplier using supplierId, name.
 4. To generate purchase bill using supplier and medicine details.
-5. TO generate sales bill using medicine and customer details.
+5. To generate sales bill using medicine and customer details.
